@@ -14,7 +14,7 @@ pip install streamlit llama-index groq chromadb pypdf<br>
 ytcode.py is the vanilla code from the YT video where pdf and question is hardcoded<br>
 preload.py allows user to ask any question to the hardcoded pdf<br>
 main.py allows user to upload custom pdf and ask any question<br>
-all 3 models require a grok-ai api key from grokcloud<br>
+all 3 models require a groq-ai api key from groqcloud<br>
 
 
 
