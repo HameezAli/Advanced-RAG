@@ -9,3 +9,4 @@ torch>=2.2.0
 sentence-transformers>=2.6.1
 pdfminer.six>=20221105
 requests>=2.31.0
+python-dotenv>=1.0.1
