@@ -1,29 +1,20 @@
 # Advanced-RAG
-Video Link: https://youtu.be/yzPQaNhuVGU?si=4RWAh2M3Ok8a0ThV
+Video Link: https://youtu.be/yzPQaNhuVGU?si=4RWAh2M3Ok8a0ThV<br>
 # In cmd,
 <hr>
-
-pip install nest_asyncio
-
-pip install llama-index
-
-pip install llama-index-embeddings-huggingface
-
-pip install llama-index-llms-groq
-
-pip install llama-index-vector-stores-chroma
-
-pip install streamlit llama-index groq chromadb pypdf
+pip install nest_asyncio<br>
+pip install llama-index<br>
+pip install llama-index-embeddings-huggingface<br>
+pip install llama-index-llms-groq<br>
+pip install llama-index-vector-stores-chroma<br>
+pip install streamlit llama-index groq chromadb pypdf<br>
 <hr>
 
 # Code Description 
-ytcode.py is the vanilla code from the YT video where pdf and question is hardcoded
-
-preload.py allows user to ask any question to the hardcoded pdf
-
-main.py allows user to upload custom pdf and ask any question
-
-all 3 models require a grok-ai api key from grokcloud
+ytcode.py is the vanilla code from the YT video where pdf and question is hardcoded<br>
+preload.py allows user to ask any question to the hardcoded pdf<br>
+main.py allows user to upload custom pdf and ask any question<br>
+all 3 models require a grok-ai api key from grokcloud<br>
 
 
 
